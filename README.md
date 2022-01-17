@@ -68,7 +68,14 @@ Here are some ideas to get you started:
 
 ---
 
+### Reference to items:
+1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb)
 
+
+<br />
+<br />
+
+---
 <p align="center">
   <summary>:zap: GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupihes&theme=radical&hide_langs_below=1&layout=compact" />
@@ -77,5 +84,3 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/hesam-mohammad-hosseini/
 
-### Reference to items:
-1. *Pandas cheatsheet for SQL users* []()
