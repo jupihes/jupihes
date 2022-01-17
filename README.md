@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - Push to Dropbox account
 3. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
 4. [Simple Script to gather Persian date details like Georgian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Georgian-date-map-holiday)
-5. [ReStructuredText Cheatsheet](https://github.com/ralsina/rst-cheatsheet)
+5. [ReStructuredText Cheatsheet by **ralsina**](https://github.com/ralsina/rst-cheatsheet)
 
 #### Data analysis - Data Science
 1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb)
@@ -99,7 +99,6 @@ https://www.python.org/static/img/python-logo-large.c36dccadd999.png
 <br />
 <br />
 
----
 
 
 
