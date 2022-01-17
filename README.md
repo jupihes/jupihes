@@ -76,3 +76,6 @@ Here are some ideas to get you started:
 </p>
 
 [linkedin]: https://www.linkedin.com/in/hesam-mohammad-hosseini/
+
+### Reference to items:
+1. *Pandas cheatsheet for SQL users* []()
