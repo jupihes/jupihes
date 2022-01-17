@@ -87,10 +87,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Tensorflow" width="30px" src="https://simpleicons.org/icons/tensorflow.svg" />
 <img align="left" alt="Stack Overflow" width="30px" src="https://simpleicons.org/icons/stackoverflow.svg" />
 
-https://www.python.org/static/img/python-logo-large.c36dccadd999.png
 -->
 <br />
-<br />
+<!-- <br /> -->
 
 
 ### Profile Visits
