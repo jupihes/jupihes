@@ -31,14 +31,23 @@ Here are some ideas to get you started:
   - Copy important files if changed to specific folder 
   - Push to Dropbox account
 3. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
+4. [Simple Script to gather Persian date details like Georgian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Georgian-date-map-holiday)
+5. [ReStructuredText Cheatsheet](https://github.com/ralsina/rst-cheatsheet)
 
 #### Data analysis - Data Science
 1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb)
 2. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
 3. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
+4. [On K8s](https://github.com/svennam92/kube101)
 #### Telecom related
 1. [Sample CM XML Parsing](https://github.com/jupihes/HTML-parsing)
-
+2. [RAN performance related stuffs](https://github.com/jupihes/RAN-Performance)
+3. [Note of Wireshark filters - need better presentation!](https://github.com/jupihes/RAN-Performance/blob/master/WireShark%20Training.txt)
+4. [Huawei Performance tool (MAPS) dump cleaning - 1](https://github.com/jupihes/MAPS-clean-up)
+5. [Huawei Performance tool (MAPS) dump cleaning - 2](https://github.com/jupihes/load-MAPS-excel-and-clean-up)
+6. [netscrapper to tackle CRA challenge ;-)](https://github.com/jupihes/netscrapper)
+7. [Speedtest CLI written by **sivel**](https://github.com/sivel/speedtest-cli)
+8. [My presentation for GM position at Digital division](https://github.com/jupihes/presentation/blob/master/presentation.rst)
 #### My personal stuffs
 1. [**Old Persian Conference papers**](https://github.com/jupihes/Old-work-records)
 
