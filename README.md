@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Hi there, I am Hesam 👋
 
 
-## I'm a Telecommunication professional and Data Science enthusiast! 
+### I'm a Telecommunication professional and Data Science enthusiast! 
 
-### Reference to items:
+#### Reference to items:
 #### General 
 1. [Python Script to simply get list, filesize and address of file in specific locations in Windows](https://github.com/jupihes/File-size-summarization)
 2. [Copy changed file and upload to Dropbox](https://github.com/jupihes/upload-to-Dropbox)
@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="Chitresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Chitresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hesam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Chitresh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!-- [<img align="left" alt="Chitresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 <br />
 
@@ -89,8 +89,11 @@ Here are some ideas to get you started:
 
 -->
 <br />
-<br />
 
+
+
+<br />
+---
 
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jupihes.hesam)
