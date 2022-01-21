@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - Copy important files if changed to specific folder 
   - Push to Dropbox account
 3. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
-4. [Simple Script to gather Persian date details like Georgian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Georgian-date-map-holiday)
+4. [Simple Script to gather Persian date details like Georgian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Gregorian-date-map-holiday)
 5. [ReStructuredText Cheatsheet by **ralsina**](https://github.com/ralsina/rst-cheatsheet)
 
 #### Data analysis - Data Science
@@ -91,10 +91,6 @@ Here are some ideas to get you started:
 <br />
 
 
-
-<br />
----
-
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jupihes.hesam)
 
@@ -115,4 +111,9 @@ Here are some ideas to get you started:
 </p>
 
 [linkedin]: https://www.linkedin.com/in/hesam-mohammad-hosseini/
+
+<br />
+---
+
+
 
