@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hi there, I am Hesam 👋
 
 
-### I'm a Telecommunication professional and Data Science enthusiast! 
+### I'm a Telecommunication professional 📶 and Data Science enthusiast 🧮! 
 
 #### Reference to items:
 #### General 
