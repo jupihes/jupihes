@@ -32,13 +32,20 @@ Here are some ideas to get you started:
      - Push to Dropbox account
 3. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
 4. [Simple Script to gather Persian date details like Gregorian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Gregorian-date-map-holiday)
+ 
  Having a reference date mapping between Jalali ( Persian) Calendar and Gregorian Calendar is needed for different data analysis. It is helpful to have below information about each day
 
-    Persian event of the day
-    Holiday or not
-    Weekend or not
+   - Persian event of the day
+   - Holiday or not
+   - Weekend or not 
 
- ![sample output sample](https://github.com/jupihes/Persian-Georgian-date-map-holiday/raw/master/sample%20view.png)
+<div id="wrapper">
+    <img src="https://github.com/jupihes/Persian-Georgian-date-map-holiday/raw/master/sample%20view.png" />
+</div>
+
+
+<!-- ![sample output sample](https://github.com/jupihes/Persian-Georgian-date-map-holiday/raw/master/sample%20view.png) -->
+ 
 6. [ReStructuredText Cheatsheet by **ralsina**](https://github.com/ralsina/rst-cheatsheet)
 
 #### Data analysis - Data Science
@@ -130,4 +137,7 @@ Here are some ideas to get you started:
 ---
 
 
-
+#wrapper{
+    width:100px;
+    overflow:hidden;
+}
