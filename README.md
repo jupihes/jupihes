@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 
 #### Reference to items:
 #### General 
-1. [Python Script to simply get list, filesize and address of file in specific locations in Windows](https://github.com/jupihes/File-size-summarization)
-2. [Copy changed file and upload to Dropbox](https://github.com/jupihes/upload-to-Dropbox)
+1. [Sample data read, cleaning pipelines](https://github.com/jupihes/Sample-pipelines-in-Pandas)
+2.  [Python Script to simply get list, filesize and address of file in specific locations in Windows](https://github.com/jupihes/File-size-summarization)
+3. [Copy changed file and upload to Dropbox](https://github.com/jupihes/upload-to-Dropbox)
      - Copy important files if changed to specific folder 
      - Push to Dropbox account
-3. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
-4. [Simple Script to gather Persian date details like Gregorian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Gregorian-date-map-holiday)
+4. [Rain drop interview Question](https://github.com/jupihes/Rain-drop-simulation)
+5. [Simple Script to gather Persian date details like Gregorian calender mapping, Holiday or not, etc](https://github.com/jupihes/Persian-Gregorian-date-map-holiday)
  
  Having a reference date mapping between Jalali ( Persian) Calendar and Gregorian Calendar is needed for different data analysis. It is helpful to have below information about each day
 
