@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### General 
 1. [Py4Telecom_sample_codes](https://github.com/jupihes/Py4Telecom_sample_code)  $\Rightarrow$  [related LinkedIn_page](https://www.linkedin.com/company/93853835)
 2. [Sample data read, cleaning pipelines](https://github.com/jupihes/Sample-pipelines-in-Pandas)
-3.  [Python Script to simply get list, filesize and address of file in specific locations in Windows](https://github.com/jupihes/File-size-summarization)
+3.  [Python Script to simply get list, filesize and address of file in specific locations in Windows and Linux](https://github.com/jupihes/File-size-summarization)
 4. [Copy changed file and upload to Dropbox](https://github.com/jupihes/upload-to-Dropbox)
      - Copy important files if changed to specific folder 
      - Push to Dropbox account
