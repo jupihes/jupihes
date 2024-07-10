@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 6. [ReStructuredText Cheatsheet by **ralsina**](https://github.com/ralsina/rst-cheatsheet)
 
 #### Data analysis - Data Science
-1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb)
+1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
 2. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
 3. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
 4. [On K8s](https://github.com/svennam92/kube101)
