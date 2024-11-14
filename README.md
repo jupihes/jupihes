@@ -21,11 +21,37 @@ Here are some ideas to get you started:
 
 ### Hi there, I am Hesam  👋
 
-### I'm a Telecommunication professional 📶 and Data Science enthusiast 🧮! 
+### I'm a 
+- Telecommunication professional 📶 (B.Sc. Electrical Eng.- Telecommunication, M.Sc. Electrical Eng.- System Telecommunication, Resigned PhD position)
+- Mobile Network Radio Access Network (RAN) Senior Specialist
+- Mobile Network RAN Performance Subject Mater Expert
+- Mobile Network Performance Managment (PM) and Configuration Managment (CM) Senior Specialist
+- Mobile Network Probing
+   - Core Probe Specialist
+   - RAN Probe (Probless) Senior Specialist
+- Data Engineering 
+- Data Science enthusiast 🧮! 
 
 <a href="https://www.linkedin.com/in/hesam-mohammad-hosseini/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae40678d9bf82639664058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 #### Reference to items:
+#### Data analysis - Data Science
+1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
+2. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
+3. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
+4. [On K8s](https://github.com/svennam92/kube101)
+#### Telecom related
+1. [Sample CM XML Parsing](https://github.com/jupihes/HTML-parsing)
+2. [RAN performance related stuffs](https://github.com/jupihes/RAN-Performance)
+3. [Note of Wireshark filters - need better presentation!](https://github.com/jupihes/RAN-Performance/blob/master/WireShark%20Training.txt)
+4. [Huawei Performance tool (MAPS) dump cleaning - 1](https://github.com/jupihes/MAPS-clean-up)
+5. [Huawei Performance tool (MAPS) dump cleaning - 2](https://github.com/jupihes/load-MAPS-excel-and-clean-up)
+6. [netscrapper to tackle CRA challenge ;-)](https://github.com/jupihes/netscrapper)
+7. [Speedtest CLI written by **sivel**](https://github.com/sivel/speedtest-cli)
+8. [My presentation for GM position at Digital division](https://github.com/jupihes/presentation/blob/master/presentation.rst)
+#### My personal stuffs
+1. [**Old Persian Conference papers**](https://github.com/jupihes/Old-work-records)
+
 #### General 
 1. [Py4Telecom_sample_codes](https://github.com/jupihes/Py4Telecom_sample_code)  $\Rightarrow$  [related LinkedIn_page](https://www.linkedin.com/company/93853835)
 2. [Sample data read, cleaning pipelines](https://github.com/jupihes/Sample-pipelines-in-Pandas)
@@ -51,22 +77,7 @@ Here are some ideas to get you started:
  
 6. [ReStructuredText Cheatsheet by **ralsina**](https://github.com/ralsina/rst-cheatsheet)
 
-#### Data analysis - Data Science
-1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
-2. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
-3. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
-4. [On K8s](https://github.com/svennam92/kube101)
-#### Telecom related
-1. [Sample CM XML Parsing](https://github.com/jupihes/HTML-parsing)
-2. [RAN performance related stuffs](https://github.com/jupihes/RAN-Performance)
-3. [Note of Wireshark filters - need better presentation!](https://github.com/jupihes/RAN-Performance/blob/master/WireShark%20Training.txt)
-4. [Huawei Performance tool (MAPS) dump cleaning - 1](https://github.com/jupihes/MAPS-clean-up)
-5. [Huawei Performance tool (MAPS) dump cleaning - 2](https://github.com/jupihes/load-MAPS-excel-and-clean-up)
-6. [netscrapper to tackle CRA challenge ;-)](https://github.com/jupihes/netscrapper)
-7. [Speedtest CLI written by **sivel**](https://github.com/sivel/speedtest-cli)
-8. [My presentation for GM position at Digital division](https://github.com/jupihes/presentation/blob/master/presentation.rst)
-#### My personal stuffs
-1. [**Old Persian Conference papers**](https://github.com/jupihes/Old-work-records)
+
 
 <!--
 - 🌱 I’m currently learning everything in Deep Learning,Natural Language Processing 
