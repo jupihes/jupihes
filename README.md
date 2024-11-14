@@ -38,10 +38,15 @@ Here are some ideas to get you started:
 
 #### Reference to items:
 #### Data analysis - Data Science
-1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
-2. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
-3. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
-4. [On K8s](https://github.com/svennam92/kube101)
+1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas)
+
+      - [Downlaod Pdf file](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas_SQL-like_functionality.pdf)
+      - [JupyterNoteBook](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
+        
+1. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
+2. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
+3. [On K8s](https://github.com/svennam92/kube101)
+   
 #### Telecom related
 1. [Sample CM XML Parsing](https://github.com/jupihes/HTML-parsing)
 2. [RAN performance related stuffs](https://github.com/jupihes/RAN-Performance)
@@ -99,6 +104,18 @@ Here are some ideas to get you started:
 
 <br />
 
+### GitHub Stats
+
+<p align="center">
+  
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupihes&theme=radical&hide_langs_below=1&layout=compact" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jupihes&show_icons=true&theme=radical&line_height=21" alt="Hesam's github stats"/>
+
+</p>
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="60px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
 <img align="left" alt="Pandas" width="60px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
@@ -138,12 +155,26 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+
+<p align="center">
+  
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupihes&theme=radical&hide_langs_below=1&layout=compact" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jupihes&show_icons=true&theme=radical&line_height=21" alt="Hesam's github stats"/>
+
+</p>
+
 ---
 <p align="center">
   
   <summary>:zap: GitHub Stats</summary>
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupihes&theme=radical&hide_langs_below=1&layout=compact" />
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jupihes&show_icons=true&theme=radical&line_height=21" alt="Hesam's github stats"/>
+
 </p>
 
   <summary>:zap: GitHub Stats</summary>
