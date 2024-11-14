@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - Data Engineering 
 - Data Science enthusiast 🧮! 
 
+![CV_timeline](https://github.com/jupihes/jupihes/blob/main/Hesam%20CV%20timeline_2023-08-30.svg)
+
 <a href="https://www.linkedin.com/in/hesam-mohammad-hosseini/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae40678d9bf82639664058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 #### Reference to items:
