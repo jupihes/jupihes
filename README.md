@@ -36,7 +36,23 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/hesam-mohammad-hosseini/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae40678d9bf82639664058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
-#### Reference to items:
+
+## Teaching expereiences
+
+
+- Teaching part of courses “[**Fundamentals of NLP and LLMs**](https://d-learn.ir/genai-chbt/)”, STATS MINUTE, Fall and Winter 2024.
+- Teaching part of courses, “[**Data Science Introductory course with Python**](https://d-learn.ir/pyds/)”, Sharif university, Spring and Summer 2024.
+- Short course on “[**Understanding regex**]()”, [Karyar college](https://kaaryar.ir/), Fall 2023.
+- Teaching part of courses, “[**Introduction to Generative AI and Prompt Engineering**]()”, STATS MINUTE, Fall and Winter 2023. 
+- Teaching part of courses,“[**AI, ML, GenAI and prompt engineering for teachers**](https://d-learn.ir/cmptr-genai/)”, STATS MINUTE and Manzoumeh Kherad, Summer 2024.
+- Short course on “[**How LLMs work and Propmpt engineering**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
+- Teaching “[**Advanced Pandas for Data analysis**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
+- Teaching “**Python and Pandas for telecommunication Eng.**”, [Shaygan Telecom](https://shaygan-tele.com/) , Winter 2022 and Spring 2023.
+   - I teach part on **Pandas for Data analysis**    
+
+
+
+### Reference to items:
 #### Data analysis - Data Science
 1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas)
 
@@ -92,6 +108,15 @@ Here are some ideas to get you started:
 - 🥅 Goals: Contribute to Open Source Data Science projects
 - ⚡ Fun fact: I love listening to music and nature photography
 -->
+
+## Publication
+
+1.	2020 – Slovakia, Deep RAN: An Scalable Data-Driven Platform to Detect Anomalies in Live Cellular Networks using RCNN-Recurrent Convolutional Neural Networks, IEEE SAMI2020“.
+2.	2008 – Syria, Chaos-based medical image encryption using symmetric cryptography, IEEE 3rd International Conference on Information and Communication Technologies.
+3.	2008 – Iran, Neural Attack: Exploring the Nonlinearity of S-Boxes by means of MLP neural networks, 2nd Joint Congress on Fuzzy and Intelligent Systems (FJCFIS02).
+4.	2007 – Iran, On the Complexity and Bit Operation of Encryption and Decryption in McEliece and RSA Public-Key Cryptosystems, 4th Iranian Society of Cryptology Conference (ISCC 2007).
+5.	2006 – Iran, A Survey on Public-Key Cryptosystems Based on Coding Theory, Iranian Student Conference on Electrical Engineering.
+6.	2005 – Iran, Cellular Design using Fuzzy C-mean Clustering (FCM) based on Mobility Modeling of Mobile Users, 7th Iranian Conference on Intelligent Systems.
 
 ### Connect with me:
 
