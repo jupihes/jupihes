@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 
 ## Teaching expereiences
-### **1404 - planned **
+
+### 1404 - planned
 - Teaching course on “[**Effective Data Analysis with Pandas and Polars**](https://d-learn.ir/pyps)”, STATS MINUTE, Spring 2025 = بهار 1404.
 - Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Spring 2025 = بهار 1404.
 
@@ -55,7 +56,9 @@ Here are some ideas to get you started:
 - Short course on “[**How LLMs work and Propmpt engineering**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
 - Teaching “[**Advanced Pandas for Data analysis**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
 - Teaching “**Python and Pandas for telecommunication Eng.**”, [Shaygan Telecom](https://shaygan-tele.com/) , Winter 2022 and Spring 2023.
-   - I teach part on **Pandas for Data analysis**    
+   - I teach part on **Pandas for Data analysis**
+      - a round for [RighTel company](https://www.rightel.ir/)
+      - a round for individuals 
 
 
 
@@ -63,8 +66,8 @@ Here are some ideas to get you started:
 #### Data analysis - Data Science
 1. [**Pandas cheatsheet for SQL users**](https://github.com/jupihes/SQL-versus-Pandas)
 
-      - [Downlaod Pdf file](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas_SQL-like_functionality.pdf)
-      - [JupyterNoteBook](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
+      - [Downlaod pdf file](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas_SQL-like_functionality.pdf)
+      - [JupyterNoteBook](https://github.com/jupihes/SQL-versus-Pandas/blob/master/Pandas%20SQL-like%20functionality.ipynb) ![Pandas_SQL-like_functionality](https://github.com/jupihes/SQL-versus-Pandas/blob/master/page1.png)
         
 1. [**Regex notes and samples**](https://github.com/jupihes/Regex-samples/blob/main/README.md)
 2. [Code summary and Short explanation of Spark book](https://github.com/jupihes/PySpark-summary)
