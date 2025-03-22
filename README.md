@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 ### Hi there, I am Hesam  👋
 
 ### I'm a 
+- 🔭 I’m currently working on CVM and Loyalty platform 
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on RAG development and AI agents deployment
+- Data Engineering 
+- Data Science enthusiast 🧮!
 - Telecommunication professional 📶 (B.Sc. Electrical Eng.- Telecommunication, M.Sc. Electrical Eng.- System Telecommunication, Resigned PhD position)
 - Mobile Network Radio Access Network (RAN) Senior Specialist
 - Mobile Network RAN Performance Subject Mater Expert
@@ -29,8 +34,7 @@ Here are some ideas to get you started:
 - Mobile Network Probing
    - Core Probe Specialist
    - RAN Probe (Probless) Senior Specialist
-- Data Engineering 
-- Data Science enthusiast 🧮! 
+
 
 ![CV_timeline](https://github.com/jupihes/jupihes/blob/main/Hesam%20CV%20timeline_2023-08-30.svg)
 
@@ -38,8 +42,11 @@ Here are some ideas to get you started:
 
 
 ## Teaching expereiences
+### **1404 - planned **
+- Teaching course on “[**Effective Data Analysis with Pandas and Polars**](https://d-learn.ir/pyps)”, STATS MINUTE, Spring 2025 = بهار 1404.
+- Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Spring 2025 = بهار 1404.
 
-
+### **1403 and older**
 - Teaching part of courses “[**Fundamentals of NLP and LLMs**](https://d-learn.ir/genai-chbt/)”, STATS MINUTE, Fall and Winter 2024.
 - Teaching part of courses, “[**Data Science Introductory course with Python**](https://d-learn.ir/pyds/)”, Sharif university, Spring and Summer 2024.
 - Short course on “[**Understanding regex**]()”, [Karyar college](https://kaaryar.ir/), Fall 2023.
