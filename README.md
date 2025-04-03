@@ -40,6 +40,20 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/hesam-mohammad-hosseini/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae40678d9bf82639664058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
+## Consultancy Services
+
+As an experienced *lead data analyst* and *senior data engineer*, I’ve been building data pipelines more than 10 years. I can guide and tutor your team / organization transition to effective data processing including
+
+- Parsing and preprocessing data
+  - from Configuration file, Log file, Trace file     
+- Developing an effective data pipelines
+- Working with large datasets locally
+
+Samples:
+- Extract and convert Core PS Configuration file to structred format
+- Extract details from Wireshark Trace file 
+ 
+Get in touch if you’d like to discuss in more detail.
 
 ## Teaching expereiences
 
@@ -64,10 +78,12 @@ Here are some ideas to get you started:
 ## تدریس
 
 ### برنامه ریزی شده - 1404
+-   ([**پردازش بهینه با pandas و polars**](https://d-learn.ir/pyps/))، حسام محمدحسینی؛ اردیبهشت و خرداد ۱۴۰۴
+-   ([**استفاده از هوش مصنوعی (AI) در زندگی حرفه‌ای**](https://d-learn.ir/ai4p/))، سعید مجیدی، علیرضا چمن زار، مجید پورکاشانی، حسام محمدحسینی؛ اردیبهشت و خرداد ۱۴۰۴
 
 ### برگزار شده
 
--  ([**پردازش زبان‌های طبیعی (NLP) و مدل‌های زبانی بزرگ (LLM) در پایتون**](https://d-learn.ir/nlmpy/))، سعید مجیدی، حسام محمدحسینی؛ آذر تا بهمن ۱۴۰۴ 
+-  ([**پردازش زبان‌های طبیعی (NLP) و مدل‌های زبانی بزرگ (LLM) در پایتون**](https://d-learn.ir/nlmpy/))، سعید مجیدی، حسام محمدحسینی؛ آذر تا بهمن ۱۴۰۳ 
 -  ([**کارگاه کامپیوتر و هوش مصنوعی**](https://d-learn.ir/cmptr-genai/))، موسسه منظومه خرد، علیرضا کدیور، سعید مجیدی، حسام محمدحسینی؛ تیر و مرداد ۱۴۰۳ 
 -  ([**آموزش مقدماتی علوم داده با پایتون دانشگاه صنعتی شریف**](https://d-learn.ir/pyds/))، میرامید حاجی‌میرصادقی، علیرضا کدیور، سعید مجیدی، حمیده‌ حسین‌زاده، حسام محمدحسینی؛ از اردیبهشت تا مرداد ۱۴۰۳
 -  ([**آشنایی با هوش مصنوعی، مدل‌های زبانی و استفاده موثر از چت‌بات‌ها**](https://d-learn.ir/genai-chbt/))، سعید مجیدی، حسام محمدحسینی؛ دی و بهمن ۱۴۰۲
