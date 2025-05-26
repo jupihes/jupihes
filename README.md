@@ -61,6 +61,10 @@ Get in touch if you’d like to discuss in more detail.
 - Teaching course on “[**Effective Data Analysis with Pandas and Polars**](https://d-learn.ir/pyps)”, STATS MINUTE, Spring 2025 = بهار 1404.
 - Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Spring 2025 = بهار 1404.
 
+- Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Summer 2025 = بهار 1404.
+- Teaching part of course on “[*علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰۴)**](https://d-learn.ir)”, STATS MINUTE, Summer 2025 = بهار 1404.
+-
+
 ### **1403 and older**
 - Teaching part of courses “[**Fundamentals of NLP and LLMs**](https://d-learn.ir/genai-chbt/)”, STATS MINUTE, Fall and Winter 2024.
 - Teaching part of courses, “[**Data Science Introductory course with Python**](https://d-learn.ir/pyds/)”, Sharif university, Spring and Summer 2024.
@@ -79,7 +83,9 @@ Get in touch if you’d like to discuss in more detail.
 
 ### برنامه ریزی شده - 1404
 -   ([**پردازش بهینه با pandas و polars**](https://d-learn.ir/pyps/))، حسام محمدحسینی؛ اردیبهشت و خرداد ۱۴۰۴
--   ([**استفاده از هوش مصنوعی (AI) در زندگی حرفه‌ای**](https://d-learn.ir/ai4p/))، سعید مجیدی، علیرضا چمن زار، مجید پورکاشانی، حسام محمدحسینی؛ اردیبهشت و خرداد ۱۴۰۴
+-   ([**استفاده از هوش مصنوعی (AI) در زندگی حرفه‌ای**](https://d-learn.ir/ai4p/))، سعید مجیدی، علیرضا چمن زار، مجید پورکاشانی، حسام محمدحسینی؛ اردیبهشت و خرداد
+-
+-    [**وبینار مسیر شغلی تحلیل داده و مهندسی داده؛ و آینده آن‌ها در دوره رشد هوش مصنوعی** ](https://d-learn.ir/crdn/)۱۴۰۴
 
 ### برگزار شده
 
