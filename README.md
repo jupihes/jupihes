@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on RAG development and AI agents deployment
 - Data Engineering 
 - Data Science enthusiast 🧮!
-- Telecommunication professional 📶 (B.Sc. Electrical Eng.- Telecommunication, M.Sc. Electrical Eng.- System Telecommunication, Resigned PhD position)
+- Telecommunication professional 📶
+      
+   - Resigned PhD position [LTH - Lund University]()
+   - M.Sc. Electrical Eng.- System Telecommunication [Tarbiat Modares university]()
+   - B.Sc. Electrical Eng.- Telecommunication [KNT university]()
 - Mobile Network Radio Access Network (RAN) Senior Specialist
 - Mobile Network RAN Performance Subject Mater Expert
 - Mobile Network Performance Managment (PM) and Configuration Managment (CM) Senior Specialist
