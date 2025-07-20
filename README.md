@@ -62,14 +62,13 @@ Get in touch if you’d like to discuss in more detail.
 ## Teaching expereiences
 
 ### 1404 - planned
+
+- Teaching part of course on “[**علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰۴)**](https://d-learn.ir)”, STATS MINUTE, Summer 2025 = تابستان 1404.
+
+### **1403 and older**
 - Teaching course on “[**Effective Data Analysis with Pandas and Polars**](https://d-learn.ir/pyps)”, STATS MINUTE, Spring 2025 = بهار 1404.
 - Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Spring 2025 = بهار 1404.
 
-- Teaching part of course on “[**Practicing AI in proffessional life**](https://d-learn.ir/ai4p)”, STATS MINUTE, Summer 2025 = بهار 1404.
-- Teaching part of course on “[*علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰۴)**](https://d-learn.ir)”, STATS MINUTE, Summer 2025 = بهار 1404.
--
-
-### **1403 and older**
 - Teaching part of courses “[**Fundamentals of NLP and LLMs**](https://d-learn.ir/genai-chbt/)”, STATS MINUTE, Fall and Winter 2024.
 - Teaching part of courses, “[**Data Science Introductory course with Python**](https://d-learn.ir/pyds/)”, Sharif university, Spring and Summer 2024.
 - Short course on “[**Understanding regex**]()”, [Karyar college](https://kaaryar.ir/), Fall 2023.
