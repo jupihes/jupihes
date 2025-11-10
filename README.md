@@ -61,9 +61,10 @@ Get in touch if you’d like to discuss in more detail.
 
 ## Teaching expereiences
 
-### 1404 - planned
+### 1404
 
 - Teaching part of course on “[**علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰۴)**](https://d-learn.ir)”, STATS MINUTE, Summer 2025 = تابستان 1404.
+- Teaching part of course on “[**بوت‌کمپ هوش‌مصنوعی در کسب‌وکار (پاییز ۱۴۰۴)**](https://rahnemacollege.com/business/ai-in-business-bootcamp)”, Rahnema College , Fall 2025 = پاییز 1404.
 
 ### **1403 and older**
 - Teaching course on “[**Effective Data Analysis with Pandas and Polars**](https://d-learn.ir/pyps)”, STATS MINUTE, Spring 2025 = بهار 1404.
