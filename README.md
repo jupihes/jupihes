@@ -63,6 +63,8 @@ Get in touch if you’d like to discuss in more detail.
 
 ### 1404
 
+- Designing and Teaching course on “[**Data analysis with Python**]()” for [شرکت داده و اعتبارسنجی تجارت ایرانیان (داتا)](https://datatejarat.ir/), Fall 2025 and Janaury 2026 = آذر و دی ماه 1404.
+
 - Teaching part of course on “[**علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰۴)**](https://d-learn.ir)”, STATS MINUTE, Summer 2025 = تابستان 1404.
 - Teaching part of course on “[**بوت‌کمپ هوش‌مصنوعی در کسب‌وکار (پاییز ۱۴۰۴)**](https://rahnemacollege.com/business/ai-in-business-bootcamp)”, Rahnema College , Fall 2025 = پاییز 1404.
 
