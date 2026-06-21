@@ -61,6 +61,12 @@ Get in touch if you’d like to discuss in more detail.
 
 ## Teaching expereiences
 
+
+### 1405 - Planned
+- Teaching part of course on “[**علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰5)**](https://d-learn.ir)”, STATS MINUTE, Summer 2026 = تابستان 1405.
+- Teaching "[**Exploring the World Through Computation; Introduction to Modeling and Simulation with Python**]()", Summer 2026.
+- 
+
 ### 1404
 
 - Designing and Teaching course on “[**Data analysis with Python**]()” for [شرکت داده و اعتبارسنجی تجارت ایرانیان (داتا)](https://datatejarat.ir/), Fall 2025 and Janaury 2026 = آذر و دی ماه 1404.
@@ -75,7 +81,8 @@ Get in touch if you’d like to discuss in more detail.
 - Teaching part of courses “[**Fundamentals of NLP and LLMs**](https://d-learn.ir/genai-chbt/)”, STATS MINUTE, Fall and Winter 2024.
 - Teaching part of courses, “[**Data Science Introductory course with Python**](https://d-learn.ir/pyds/)”, Sharif university, Spring and Summer 2024.
 - Short course on “[**Understanding regex**]()”, [Karyar college](https://kaaryar.ir/), Fall 2023.
-- Teaching part of courses, “[**Introduction to Generative AI and Prompt Engineering**]()”, STATS MINUTE, Fall and Winter 2023. 
+- Teaching part of courses, “[**Introduction to Generative AI and Prompt Engineering**]()”, STATS MINUTE, Fall and Winter 2023.
+- Mentoring in 1st and 2nd round of [MTN Irancell](www.irancell.ir) Trainee development program.
 - Teaching part of courses,“[**AI, ML, GenAI and prompt engineering for teachers**](https://d-learn.ir/cmptr-genai/)”, STATS MINUTE and Manzoumeh Kherad, Summer 2024.
 - Short course on “[**How LLMs work and Propmpt engineering**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
 - Teaching “[**Advanced Pandas for Data analysis**]()”, [Karyar college](https://kaaryar.ir/), Fall 2022.
