@@ -54,18 +54,20 @@ As an experienced *lead data analyst* and *senior data engineer*, I’ve been bu
 - Working with large datasets locally
 
 Samples:
-- Extract and convert Core PS Configuration file to structred format
+- Extract and convert Core PS Configuration file to structured format
 - Extract details from Wireshark Trace file 
  
 Get in touch if you’d like to discuss in more detail.
 
-## Teaching expereiences
+## Teaching experiences
 
 
 ### 1405 - Planned
 - Teaching part of course on “[**علوم داده و هوش مصنوعی در دانشگاه شریف (تابستان ۱۴۰5)**](https://d-learn.ir)”, STATS MINUTE, Summer 2026 = تابستان 1405.
+<!--
 - Teaching "[**Exploring the World Through Computation; Introduction to Modeling and Simulation with Python**]()", Summer 2026.
-- 
+- Maktabkhooneh - 
+-->
 
 ### 1404
 
